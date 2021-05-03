@@ -1,4 +1,4 @@
-# Carrera de Robots
+# Carrera de Robots (2019)
 Tuvimos que hacer un robot que siguiera una pista de 3 colores. La prueba final consistió en una carrera donde la forma de cambiarse de pistas debía ser vía instrucciones por Bluetooth (utilizando la identificación del color de la pista para cambiarse). Es decir, en el computador yo escribía "Azul" para que se cambie a la pista azul y así poder adelantar a otro robot. Mi grupo (con dos Ing. Civil Industriales) ganó primer lugar! Debido a esto nos eximimos del examen y tuvimos promedio final de 6,9 en el ramo. 
 
 
